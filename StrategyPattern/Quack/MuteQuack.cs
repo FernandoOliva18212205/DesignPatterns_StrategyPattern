@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace StrategyPattern.Quack
+namespace StrategyPattern
 {
     public class MuteQuack : IQuackBehavior
     {

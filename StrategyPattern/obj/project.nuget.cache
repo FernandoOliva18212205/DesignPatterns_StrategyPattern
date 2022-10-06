@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8yoyp1XJK5rxVUqr8Afzg3PJTFg/mPxUQ93TI6am/4IWOPSKKYzU1YVR0FxBIhBXXAzJZR5FuXmn4ckGVJO5OA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paint\\Documents\\DesignPatterns_StrategyPattern\\DesignPatterns_StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paint\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -9,6 +9,7 @@ namespace StrategyPattern
     {
         public IFlyBehavior FlyBehavior;
         public IQuackBehavior QuackBehavior;
+        public ISwimBehavior SwimBehavior;
 
         public void PerformQuack()
         {
@@ -20,9 +21,9 @@ namespace StrategyPattern
             FlyBehavior.Fly();
         }
 
-        public void Swim()
+        public void PerformSwim()
         {
-            Console.WriteLine("All ducks float, even decoys!");
+            SwimBehavior.Swim();
         }
 
         public abstract void Display();
@@ -35,6 +36,11 @@ namespace StrategyPattern
         public void SetQuackBehavior(IQuackBehavior qb)
         {
             QuackBehavior = qb;
+        }
+
+        public void SetSwimBehavior(ISwimBehavior sb)
+        {
+            SwimBehavior = sb;
         }
 
     }

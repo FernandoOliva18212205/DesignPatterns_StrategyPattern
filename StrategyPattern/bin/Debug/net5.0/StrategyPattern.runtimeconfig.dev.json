@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\paint\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\paint\\.nuget\\packages"
+    ]
+  }
+}

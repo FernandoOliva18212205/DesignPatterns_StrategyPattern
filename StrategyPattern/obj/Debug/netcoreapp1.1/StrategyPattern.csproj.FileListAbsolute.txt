@@ -1,0 +1,13 @@
+C:\Users\paint\Documents\DesignPatterns_StrategyPattern\DesignPatterns_StrategyPattern\StrategyPattern\bin\Debug\netcoreapp1.1\StrategyPattern.deps.json
+C:\Users\paint\Documents\DesignPatterns_StrategyPattern\DesignPatterns_StrategyPattern\StrategyPattern\bin\Debug\netcoreapp1.1\StrategyPattern.runtimeconfig.json
+C:\Users\paint\Documents\DesignPatterns_StrategyPattern\DesignPatterns_StrategyPattern\StrategyPattern\bin\Debug\netcoreapp1.1\StrategyPattern.runtimeconfig.dev.json
+C:\Users\paint\Documents\DesignPatterns_StrategyPattern\DesignPatterns_StrategyPattern\StrategyPattern\bin\Debug\netcoreapp1.1\StrategyPattern.dll
+C:\Users\paint\Documents\DesignPatterns_StrategyPattern\DesignPatterns_StrategyPattern\StrategyPattern\bin\Debug\netcoreapp1.1\StrategyPattern.pdb
+C:\Users\paint\Documents\DesignPatterns_StrategyPattern\DesignPatterns_StrategyPattern\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.csproj.AssemblyReference.cache
+C:\Users\paint\Documents\DesignPatterns_StrategyPattern\DesignPatterns_StrategyPattern\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paint\Documents\DesignPatterns_StrategyPattern\DesignPatterns_StrategyPattern\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\paint\Documents\DesignPatterns_StrategyPattern\DesignPatterns_StrategyPattern\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.AssemblyInfo.cs
+C:\Users\paint\Documents\DesignPatterns_StrategyPattern\DesignPatterns_StrategyPattern\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\paint\Documents\DesignPatterns_StrategyPattern\DesignPatterns_StrategyPattern\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.dll
+C:\Users\paint\Documents\DesignPatterns_StrategyPattern\DesignPatterns_StrategyPattern\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.pdb
+C:\Users\paint\Documents\DesignPatterns_StrategyPattern\DesignPatterns_StrategyPattern\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.genruntimeconfig.cache

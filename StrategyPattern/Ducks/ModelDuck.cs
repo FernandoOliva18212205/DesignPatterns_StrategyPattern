@@ -1,4 +1,4 @@
-﻿using StrategyPattern.Quack;
+﻿using StrategyPattern;
 using System;
 
 namespace StrategyPattern
@@ -9,6 +9,7 @@ namespace StrategyPattern
         {
             FlyBehavior = new FlyNoWay();
             QuackBehavior = new DuckQuack();
+            SwimBehavior = new SwimFast();
         }
 
         public override void Display()
